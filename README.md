@@ -1,2 +1,1 @@
-
-- 🔭 Tôi đang tập tành học Java
+🔭 Tôi đang tập tành học Java
